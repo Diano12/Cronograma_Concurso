@@ -69,25 +69,6 @@ footer {
     width: 100%;
 }
 
-/* estilos para telas com largura máxima de 768px */
-@media (max-width: 768px) {
-  .container {
-    width: 100%;
-  }
-  .header {
-    font-size: 1.5em;
-  }
-}
-
-/* estilos para telas com largura máxima de 480px */
-@media (max-width: 480px) {
-  .container {
-    width: 90%;
-  }
-  .header {
-    font-size: 1.2em;
-  }
-}
 /* Responsividade */
 @media (max-width: 768px) {
     table {
